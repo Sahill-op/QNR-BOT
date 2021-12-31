@@ -36,3 +36,6 @@ Any queries or issue contact
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/BERLINSPAM)
 
 ------
+## CREDITS
+- [TEAM YUKKI](https://github.com/notreallyshikhar)
+- [LONE-WOLF](https://github.com/Lone-Wolf250)
