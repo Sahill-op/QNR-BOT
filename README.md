@@ -21,11 +21,11 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsajalrock%2FBerlin-Spambot&template=https%3A%2F%2Fgithub.com%2Fsajalrock%2FBerlin-Spambot)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsajalrock%2FBerlin-Spambot&template=https%3A%2F%2Fgithub.com%2Fsajalrock%2FBerlin-Spambot)
 
 ### String Generator
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SAJALMAURYA/Berlin-Spambot#main.py)
-
+- [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@SAJALMAURYA/Berlin-Spambot#main.py)
+- [![GenerateString](https://img.shields.io/badge/TELEGRAM%20BOT-genString-bluevoilet)](https://t.me/sessiongenro_bot)
 
 ### Contact Support
 Any queries or issue contact 
