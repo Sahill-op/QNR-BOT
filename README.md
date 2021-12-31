@@ -1,8 +1,9 @@
 <h1 align="center">
   <b> 𝘽𝙀𝙍𝙇𝙄𝙉 𝙎𝙋𝘼𝙈𝘽𝙊𝙏 </b>
 </h1>
-A POWERFUL SPAM USERBOT WHICH WORK ON TELEGRAM BASED ON TELETHON. BY DEPLOYING/HOSTING THIS U CAN SPAM ON TELEGRAM BY ONE COMMAND TO 30 ACCOUNT AT ONE TIME.
-
+<h1 align="center">
+  <b>Ꭺ ᏢϴᏔᎬᎡҒႮᏞ ՏᏢᎪᎷ ႮՏᎬᎡᏴϴͲ ᏔᎻᏆᏟᎻ ᏔϴᎡᏦ ϴΝ ͲᎬᏞᎬᏀᎡᎪᎷ ᏴᎪՏᎬᎠ ϴΝ ͲᎬᏞᎬͲᎻϴΝ. ᏴᎽ ᎠᎬᏢᏞϴᎽᏆΝᏀ/ᎻϴՏͲᏆΝᏀ ͲᎻᏆՏ Ⴎ ᏟᎪΝ ՏᏢᎪᎷ ϴΝ ͲᎬᏞᎬᏀᎡᎪᎷ ᏴᎽ ϴΝᎬ ᏟϴᎷᎷᎪΝᎠ Ͳϴ 30 ᎪᏟᏟϴႮΝͲ ᎪͲ ϴΝᎬ ͲᏆᎷᎬ.</b>
+</h1>
 <p align="center">
   <img src="https://te.legra.ph/file/84ba366dd4bd8fbd416de.jpg" alt="BERLIN SPAMBOT">
 </p>
