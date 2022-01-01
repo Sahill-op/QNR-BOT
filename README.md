@@ -32,7 +32,7 @@ Any queries or issue contact
 
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BERLINGODSPAM)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/BERLINSPAM)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/BERLINSPAAM)
 
 ------
 ## CREDITS
