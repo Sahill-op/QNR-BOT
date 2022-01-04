@@ -22,7 +22,7 @@
 ### Heroku
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsajalrock%2FBerlin-Spambot&template=https%3A%2F%2Fgithub.com%2Fsajalrock%2FBerlin-Spambot)
-- [![Deploy](https://img.shields.io/badge/DEPLOY%20VIA%20TELEGRAM-blueviolet?style=for-the-badge&logo=telegram)](https://telegram.dog/XTZ_HerokuBot?start=c2FqYWxyb2NrL0Jlcmxpbi1TcGFtYm90IG1haW4)
+- [![Deploy](https://img.shields.io/badge/DEPLOY%20VIA%20TELEGRAM%20BOT-blueviolet?style=for-the-badge&logo=telegram)](https://telegram.dog/XTZ_HerokuBot?start=c2FqYWxyb2NrL0Jlcmxpbi1TcGFtYm90IG1haW4)
 
 
 
