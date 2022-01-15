@@ -1,1 +1,1 @@
-worker: python3 berlin.py
+worker: python3 QNR.py
