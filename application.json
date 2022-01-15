@@ -67,7 +67,7 @@
       },
       "API_HASH": {
         "description": "Api Hash get it from telegram.org",
-        "value": "7ff7db9b8df7a4acdb20920d84bb1a84",
+        "value": "8088ae65cca904006f803f989691f0e9",
         "required": true
       },
       "STRING11": {
