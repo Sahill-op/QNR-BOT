@@ -1,8 +1,8 @@
 {
-  "name": "BERLIN SPAMBOT",
+  "name": "QNR BOT",
   "description": "A Powerful Telegram Spam Userbot based on telethon.",
-  "website": "https://t.me/BERLISPAM",
-  "repository": "https://github.com/sajalrock/Berlin-Spambot/",
+  "website": "https://t.me/POWERED_BY_SPACEX",
+  "repository": "https://github.com/sahilsi552/QNR-BOT",
   "logo": "https://te.legra.ph/file/84ba366dd4bd8fbd416de.jpg",
   "keywords": [
     "spambot",
@@ -17,7 +17,7 @@
       },
       "API_ID": {
         "description": "Fill API ID ",
-        "value": "2842433",
+        "value": "3759094",
         "required": true
       },
       "STRING2": {
