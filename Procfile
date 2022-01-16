@@ -1,1 +1,1 @@
-worker: python3 QNR.py
+worker: python3 qnr.py
