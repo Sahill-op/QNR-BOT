@@ -1770,11 +1770,11 @@ async def help(e):
 
     
         
-text = """𝗕𝗘𝗥𝗟𝗜𝗡 𝗦𝗣𝗔𝗠𝗕𝗢𝗧"""
+text = """𝙌𝙉𝙍 𝘽𝙊𝙏"""
 
 print(text)
 print("")
-print("SMEX! 𝗕𝗘𝗥𝗟𝗜𝗡 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 STARTED.")
+print("SMEX!𝙌𝙉𝙍 𝘽𝙊𝙏 STARTED.")
 if len(sys.argv) not in (1, 3, 4):
     try:
         str1.disconnect()
