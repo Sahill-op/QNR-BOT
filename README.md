@@ -5,7 +5,7 @@
   <b>Ꭺ ᏢϴᏔᎬᎡҒႮᏞ ՏᏢᎪᎷ ႮՏᎬᎡᏴϴͲ ᏔᎻᏆᏟᎻ ᏔϴᎡᏦ ϴΝ ͲᎬᏞᎬᏀᎡᎪᎷ ᏴᎪՏᎬᎠ ϴΝ ͲᎬᏞᎬͲᎻϴΝ. ᏴᎽ ᎠᎬᏢᏞϴᎽᏆΝᏀ/ᎻϴՏͲᏆΝᏀ ͲᎻᏆՏ Ⴎ ᏟᎪΝ ՏᏢᎪᎷ ϴΝ ͲᎬᏞᎬᏀᎡᎪᎷ ᏴᎽ ϴΝᎬ ᏟϴᎷᎷᎪΝᎠ Ͳϴ 30 ᎪᏟᏟϴႮΝͲ ᎪͲ ϴΝᎬ ͲᏆᎷᎬ.</b>
 </h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/84ba366dd4bd8fbd416de.jpg" alt="BERLIN SPAMBOT">
+  <img src="https://te.legra.ph/file/a29f3fffddc4c0b794755.jpg" alt="BERLIN SPAMBOT">
 </p>
  
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahilsi552/QNR-BOT)
