@@ -14,3 +14,5 @@
 
 ## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
 <p align="left"><a href=https://github.com/sahilsi552/QNR-BOT"><img src="https://img.shields.io/github/forks/sahilsi552/QNR-BOT?label=Forks&logoColor=pink&style=social"></a><p align="left"><a href="https://github.com/sahilsi552/QNR-BOT/stargazers"><img src="https://img.shields.io/github/stars/sahilsi552/QNR-BOT?logoColor=red&style=social"></a><p align="left"><a href="sahilsi552/QNR-BOT"><img src="https://img.shields.io/github/last-commit/sahilsi552/QNR-BOT?style=plastic"></a>
+## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=sahilsi552&repo=QNR-BOT&theme=Yellow)
