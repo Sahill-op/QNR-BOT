@@ -17,6 +17,6 @@
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=sahilsi552&repo=QNR-BOT&theme=dark)
 
-</br>
 
-<a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
+  </br>
+  <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
